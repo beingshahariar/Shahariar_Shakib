@@ -23,9 +23,9 @@ Currently:
 
 📫 Reach me:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/md-al-shahariar-shakib-2907031a7)
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-all-shahariar-shakib-2907031a7/)
 - 📘 [Facebook](https://www.facebook.com/shahariarshaki)
-- 📸 [Instagram](https://www.instagram.com/being_shahariar)
+- 📸 [Instagram](https://www.instagram.com/being_shahariar/)
 - 🧑‍💻 [GitHub](https://github.com/beingshahariar)
 
 ---
