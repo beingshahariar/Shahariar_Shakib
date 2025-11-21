@@ -27,7 +27,7 @@ Currently:
 - 📘 [Facebook](https://www.facebook.com/shahariarshaki)
 - 📸 [Instagram](https://www.instagram.com/being_shahariar/)
 - 🧑‍💻 [GitHub](https://github.com/beingshahariar)
-- ✉️ [Email:](sshahariar037@gmail.com)
+- ✉️ [Email](sshahariar037@gmail.com)
 
 ---
 
